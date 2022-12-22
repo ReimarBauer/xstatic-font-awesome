@@ -12,7 +12,10 @@ authors = [
 ]
 requires-python = ">=3.0" 
 license = { file = "xstatic/pkg/font_awesome/data/LICENSE.txt" }
-classifiers = [ "Environment :: Web Environment", "License :: OSI Approved :: OFL-1.1", "Programming Language :: Python :: 3", "Topic :: Web Environment", ]
+classifiers = [ "Environment :: Web Environment", 
+                "License :: OSI Approved :: SIL Open Font License 1.1 (OFL-1.1)", 
+                "Programming Language :: Python :: 3" ]
+
 keywords = [ "font_awesome" , "xstatic" ]
 dependencies = [ "XStatic >= 1.0.2", ]
 
